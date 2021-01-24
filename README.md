@@ -29,7 +29,7 @@ These are just my markdown notes to help me stay organized while going through t
 
 # Examples
 
-These are the example bash scripts that I will be using throughout the Bash Scripting Tips and Tricks presentation. I will have a lot of examples here because I want to show off the absolute power of the bash shell. Feel free to use these scripts as point of reference for when you're developing your own bash scripts!
+These are the example bash scripts that I will be using throughout the Bash Scripting Tips and Tricks presentation. I will have a lot of examples here because I want to show off the absolute power of the bash shell. Feel free to use these scripts as point of reference for when you're developing your own bash scripts! You can find the example bash script in the `examples` directory of this repository.
 
 **Note:** All the scripts that I have written for the presentation are licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
